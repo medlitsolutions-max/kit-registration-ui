@@ -15,8 +15,6 @@ my-dna SPA / customer API endpoints.
 
 ## Companion documents (not in this repo)
 
-- EvoDNA Kit Registration v1.4 — CEO Briefing (PowerPoint)
 - EvoDNA — Developer Build Instructions — Kit Registration v1.3 (PDF)
-- EvoDNA — Partner Setup Checklist — Kit Registration v1.3 (PDF)
 
 Owner: medlitsolutions-max
